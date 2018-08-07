@@ -1,0 +1,5 @@
+if x%2
+  print "Even!"
+  elsif x== 6
+  print "Nahhhhhhhh"
+end
