@@ -1,2 +1,3 @@
-sneaker_brands = ["adidas", "nike", "vans", "puma"]
-puts sneaker_brands
+sneaker_brands = ["adidas", "nike","vans", "sketchers"]
+puts [3] = Drake
+end
