@@ -19,10 +19,10 @@ def room_number
   @room_number 
   end
   
-def authenticate_or_request_with_http_digestputs "I am entering a house that is not Shawn Mendes's"
+def not_shawn_mendess_house
+  puts"I am entering a house that is not Shawn Mendes's"
 end
 
-not_shawn_mendess_house = House.new("gray","three", "new")
-puts not_shawn_mendess_house.style
+
 
 
